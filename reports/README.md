@@ -9,6 +9,7 @@
 - [Алексеев Н.С.](Alekseev.md)
 - [Мищенко Д.Д.](Mishenko.md)
 - [Пономарев А.А.](Ponomarev.md)
+- [Позднякова Р.К.](Pozdnykova.md)
 
 ## Отчёт
 
